@@ -1,2 +1,2 @@
-# Codeforces-Practice
-Codeforces problems
+# LeetCode-Practice
+My solutions to LeetCode Problems
